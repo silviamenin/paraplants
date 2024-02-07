@@ -3,10 +3,8 @@ from sys import argv, exit
 import os
 import MDAnalysis as mda
 from rdkit import DataStructs, Chem
-import rdkit
 from parallelizer import parallelizer
 import prolif
-import numpy as np
 import pandas as pd
 from mol2supplier import mol2_supplier
 import time
