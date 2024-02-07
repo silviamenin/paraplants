@@ -1,1 +1,1 @@
-Test README
+Docking Fingerprint analyzer
